@@ -68,10 +68,6 @@ public class WuZiQi {
         return null;
     }
 
-    private int calculate(int i) {
-        return (int) Math.pow(lian, i);
-    }
-
     public boolean NoArrayOutOfBoardException(int i) {
         return i >= 0 && i <= width - 1;
     }
