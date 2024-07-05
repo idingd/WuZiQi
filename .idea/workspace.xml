@@ -4,31 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="23f79614-11f4-4365-96dc-48a03068ff56" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/yiding.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WuZiQi.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/yiding/window/contol/AbstractDialogController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/yiding/window/contol/AbstractWindowControl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/yiding/window/view/AbstractDialog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/yiding/window/view/AbstractWindow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/yiding/window/view/InsertButton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/yiding/window/view/Label.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/yiding/window/view/Menu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/yiding/window/view/MenuItem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/yiding/window/view/ScrollPane.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/yiding/window/view/TextField.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/yiding/wuziqi/QiZi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/yiding/wuziqi/WuZiQi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/yiding/wuziqi/b.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/yiding/wuziqi/view/WuZiQiWindow.java" afterDir="false" />
+    <list default="true" id="23f79614-11f4-4365-96dc-48a03068ff56" name="Changes" comment="Changes">
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/WuZiQi.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/WuZiQi_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/yiding/wuziqi/WuZiQiComputer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/yiding/wuziqi/view/WuZiQiConsole.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/yiding/wuziqi/view/WuZiQiUITemplate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/yiding/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/yiding/wuziqi/QiZi.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/yiding/wuziqi/WuZiQi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/yiding/wuziqi/WuZiQi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/yiding/wuziqi/view/WuZiQiWindow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/yiding/wuziqi/view/WuZiQiWindow.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/yiding/wuziqi/view/WuZiQiWindowControl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/yiding/wuziqi/view/WuZiQiWindowControl.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,6 +35,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;yiding26&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/yiding26/WuZiQi.git&quot;,
+    &quot;accountId&quot;: &quot;108a5c86-73bc-4b73-af00-a58ffe348750&quot;
+  }
+}</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
 }</component>
@@ -53,24 +58,24 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/yiding/OneDrive/文档/project/WZQ/src/window&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;/Users/dding/Library/CloudStorage/OneDrive-共享的库-onedrive/文档/project/WZQ/src/Main.java&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.ide.settings.new.ui&quot;,
-    &quot;应用程序.Main.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.fivechess.executor&quot;: &quot;Run&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/yiding/OneDrive/文档/project/WZQ/src/window",
+    "onboarding.tips.debug.path": "/Users/dding/Library/CloudStorage/OneDrive-共享的库-onedrive/文档/project/WZQ/src/Main.java",
+    "project.structure.last.edited": "工件",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "应用程序.Main.executor": "Run",
+    "应用程序.fivechess.executor": "Run"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\yiding\OneDrive\文档\project\WZQ\src\window" />
@@ -87,7 +92,7 @@
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
+      <option name="MAIN_CLASS_NAME" value="yiding.Main" />
       <module name="WuZiQi" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -109,6 +114,17 @@
       <updated>1701503887853</updated>
     </task>
     <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/yiding/wuziqi/WuZiQiComputer.java</url>
+          <line>73</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/WZQ$Main.ic" NAME="Main Coverage Results" MODIFIED="1704956325379" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
